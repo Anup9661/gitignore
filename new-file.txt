@@ -1,5 +1,0 @@
-some new changes in gitignore.
-
-line one change.
-
-one more change..

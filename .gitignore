@@ -1,5 +1,5 @@
 #ignore sigle file
-another-file.txt
+new-file.txt
 #ignore all files in the bin directory
 bin/
 #ignore all .tmo files
